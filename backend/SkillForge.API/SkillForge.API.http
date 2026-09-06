@@ -1,0 +1,6 @@
+@SkillForge.API_HostAddress = http://localhost:5281
+
+GET {{SkillForge.API_HostAddress}}/health
+Accept: application/json
+
+###

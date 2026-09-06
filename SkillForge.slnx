@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/SkillForge.API/SkillForge.API.csproj" />
+    <Project Path="backend/SkillForge.Application/SkillForge.Application.csproj" />
+    <Project Path="backend/SkillForge.Domain/SkillForge.Domain.csproj" />
+    <Project Path="backend/SkillForge.Infrastructure/SkillForge.Infrastructure.csproj" />
+  </Folder>
+</Solution>

@@ -1,28 +1,9 @@
-# Environment / secrets
-.env
-.env.*
-!.env.example
+# .NET build output
+**/bin/
+**/obj/
 
-# PHP dependencies
-/vendor/
-
-# IDE settings
-.vscode/
-.idea/
-
-# Operating system
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-*.temp
-
-# Moodle
-moodledata/
-
-# Local Docker data
-docker/data/
+# .NET user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
